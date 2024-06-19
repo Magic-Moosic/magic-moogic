@@ -77,7 +77,7 @@ PORT=
 ### 🐳 Docker
 
 available:
-- `lrmn/soothe:latest`: latest versions
+- `anas-ike/magicmoosic:latest`: latest versions
 
 ## Feedback
 
